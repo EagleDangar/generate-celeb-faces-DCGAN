@@ -12,14 +12,12 @@ DCGAN :- Deep Convolutional Generative Adversial Network to generate celeb faces
 <a name="about"></a>
 ## About
 
-In this project, we'll define and train a DCGAN on a dataset of faces. Our goal is to get a generator network to generate new images of faces that look as realistic as possible!
+In this project, I defined and trained a DCGAN on a dataset of faces. My goal was to get a generator network to generate new images of faces that look as realistic as possible!
 
 This project is divided in the following key sections:
 
 1. Processing image data, building a pipeline to extract important facial data from source.
 2. Define a Deep learning network called DCGAN and training against the train data set.
-
-you'll be able to visualize the results of your trained Generator to see how it performs; your generated samples should look like fairly realistic faces with small amounts of noise.
 
 <a name="getting_started"></a>
 ## Getting Started
